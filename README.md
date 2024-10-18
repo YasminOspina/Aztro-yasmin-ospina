@@ -1,1 +1,0 @@
-# Aztro-yasmin-ospina
