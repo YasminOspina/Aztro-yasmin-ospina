@@ -51,6 +51,6 @@ public class Main_Supermercado {
                 .forEach(System.out::println);
         
         clienteRepository.close();
-    }
+
     }
 }

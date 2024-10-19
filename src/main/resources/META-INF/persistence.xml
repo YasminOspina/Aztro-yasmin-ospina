@@ -6,6 +6,18 @@
         <class>org.example.Supermercado.models.DetalleCompra</class>
         <class>org.example.Supermercado.models.Productos</class>
         <class>org.example.Supermercado.models.Marcas</class>
+
+        <class>org.example.Biblioteca.models.Usuarios</class>
+        <class>org.example.Biblioteca.models.Autores</class>
+        <class>org.example.Biblioteca.models.Libros</class>
+        <class>org.example.Biblioteca.models.PrestamosLibros</class>
+
+        <class>org.example.Universidad.models.Estudiantes</class>
+        <class>org.example.Universidad.models.Cursos</class>
+        <class>org.example.Universidad.models.NotaCurso</class>
+        <class>org.example.Universidad.models.Profesores</class>
+
+
         <properties>
             <property name="jakarta.persistence.jdbc.driver"
                       value="org.postgresql.Driver"/>
